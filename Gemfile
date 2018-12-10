@@ -1,0 +1,10 @@
+  source 'https://rubygems.org'
+
+  gem 'selenium-webdriver'
+  gem 'rspec', '~> 3.5'
+  gem 'rspec-expectations', '3.5'
+  gem 'rake'
+  gem 'headless'
+  gem 'pry'
+  gem 'require_all'
+  gem 'allure-rspec'

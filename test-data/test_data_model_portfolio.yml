@@ -1,0 +1,18 @@
+model_protfolio:
+  url: "https://sfo-demo.herokuapp.com/model-portfolio"
+
+model_protfolio_test1:
+  equity_name: "SPDR S&P 500 ETF TRUST  SPY US EQUITY"
+  slider_value: 50
+
+model_protfolio_test2:
+  constituent: "US EQUITIES"
+  stock_name: "BT Group plc"
+
+model_protfolio_test3:
+  screen_horizontal: 375
+  screen_vertical: 667
+  recomended_value_in_normal_screen_size: "X Portfolio recommendations based on your preferences"
+  choice_value_in_normal_screen_size: "Y other portfolio choices available"
+  recomended_value_in_specified_screen_size: "Recommended (X)"
+  choice_value_in_specified_screen_size: "Others (Y)"
