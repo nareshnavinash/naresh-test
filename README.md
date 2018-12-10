@@ -1,4 +1,4 @@
-1. Install RVM in the machine and do 'gem install bundler' in the folder path "../We_Invest_Automation_Suite"
+1. Install RVM in the machine and do 'gem install bundler' in the folder path "../selenium-frameworkbasic"
 2. Then give 'bundle install'
 3. Required package will be installed from Gemfile
 4. Now run the test by 'rspec spec/we_invest_model_portfolio.rb --format html > results/last_run.html'.
