@@ -1,0 +1,9 @@
+browser: "chrome"
+implicit_wait: 20
+switches:
+  # - headless
+  - disable-gpu
+
+dimensions:
+  horizontal: 1366
+  vertical: 768
