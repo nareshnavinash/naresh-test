@@ -45,7 +45,7 @@ david-dm
 
 
 __Bugs and requests__: submit them through the project's issues tracker.<br>
-[![Issues](http://img.shields.io/github/issues/USER/REPO.svg)]( https://github.com/USER/REPO/issues )
+[![Issues](http://img.shields.io/github/issues/USER/REPO.svg)]( https://github.com/issues )
 
 __Questions__: ask them at StackOverflow with the tag *REPO*.<br>
 [![StackOverflow](http://img.shields.io/badge/stackoverflow-REPO-blue.svg)]( http://stackoverflow.com/questions/tagged/REPO )
