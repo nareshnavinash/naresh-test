@@ -7,3 +7,5 @@
 	a. 'allure genereate reports/allure'
 	b. 'allure report open'
 7. To run in headless mode uncomment the line '-headless' in 'run_parameters.yml' file
+
+
