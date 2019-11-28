@@ -7,7 +7,7 @@ This framework is to demonstrate the basic Page Object Model for UI automation w
 [![email me](https://img.shields.io/badge/Contact-Email-green.svg)](nareshnavinash@gmail.com)
 
 
-![alt text](libraries/Tespec_Ruby_Black.png)
+![alt text](libraries/Tespec_Ruby_White.png)
 
 
 ## Prerequsite
@@ -68,5 +68,23 @@ This framework is to demonstrate the basic Page Object Model for UI automation w
 * Inside each spec file we need to require only the spec helper file so that each spec is powered to access all the gems or files used within the project.
 
 This is just a beginner level of POM. Ideally we need to make most of the common methods that we use inside this project in to a seperate gem and we need to import that gem.
+
+## Built With
+
+* [Rspec](https://rubygems.org/gems/rspec/versions/3.4.0) - Test core framework
+* [Allure Rspec](https://rubygems.org/gems/allure-rspec) - For Detailed reporting.
+* [Selenium](https://www.seleniumhq.org/) - For web browser automation.
+
+## Authors
+
+* **[Naresh Sekar](https://github.com/nareshnavinash)**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Acknowledgments
+
+* To all the open source contributors whose code has been referred to create this framework
 
 *Happy Automating*
