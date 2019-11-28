@@ -1,4 +1,4 @@
-# Basic Page Object Model Framework for selenium with rspec and allure
+# Page Object Model Framework for selenium with rspec and allure
 This framework is to demonstrate the basic Page Object Model for UI automation with selenium in Ruby. For assertion and testing structure we use rspec. For reporting we are going with open sourced allure.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
