@@ -4,7 +4,7 @@ This framework is to demonstrate the basic Page Object Model for UI automation w
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Made with Java](https://img.shields.io/badge/Made%20with-Ruby-red.svg)](https://www.ruby-lang.org/en/)
 [![StackOverflow](http://img.shields.io/badge/Stack%20Overflow-Ask-blue.svg)]( https://stackoverflow.com/users/10505289/naresh-sekar)
-[![email me](https://img.shields.io/badge/Contact-Email-green.svg)](nareshnavinash@gmail.com)
+[![email me](https://img.shields.io/badge/Contact-Email-green.svg)](mailto:nareshnavinash@gmail.com)
 
 
 ![alt text](libraries/Tespec_Ruby_White.png)
